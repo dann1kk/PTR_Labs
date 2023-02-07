@@ -8,3 +8,4 @@
 
 ## Laboratory Works 
 - [Week 1](https://github.com/dann1kk/PTR_Labs/blob/main/week1/README.md)
+- [Week 2](https://github.com/dann1kk/PTR_Labs/blob/main/week2/README.md)
