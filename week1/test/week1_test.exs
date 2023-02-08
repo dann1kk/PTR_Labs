@@ -3,6 +3,6 @@ defmodule Week1Test do
 
 
   test "Hello PTR" do
-    assert IO.puts("Hello PTR") == :ok
+    assert Week1.helloPTR() == "Hello PTR"
   end
 end
