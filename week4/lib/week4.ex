@@ -40,6 +40,6 @@ defmodule Week4.WorkersPool.WorkerNode do
 end
 
 ## {supervisor_pid, pids} = Week4.WorkersPool.start_group()
-## Week4.WorkerGroup.WorkerNode.message(Enum.at(pids, 0), "Hello")
+## Week4.WorkersPool.WorkerNode.message(Enum.at(pids, 0), "Hello")
 ## Week4.WorkersPool.WorkerNode.kill(Enum.at(pids, 2))
 ## workers = Supervisor.which_children(supervisor_pid)
